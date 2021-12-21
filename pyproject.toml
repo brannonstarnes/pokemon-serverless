@@ -6,6 +6,9 @@ authors = ["Brannon Starnes <brannlee808@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+black = "^21.12b0"
+flake8 = "^4.0.1"
+requests = "^2.26.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
